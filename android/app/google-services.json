@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584268348950",
+    "project_id": "ai-powered-vpn",
+    "storage_bucket": "ai-powered-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584268348950:android:402a794ec3b0b114b1ff37",
+        "android_client_info": {
+          "package_name": "net.appdevs.supervpn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JzCIBNVDMlhNGoKS-7ajZwURrOGCmoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
